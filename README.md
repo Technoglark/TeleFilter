@@ -8,6 +8,6 @@ This Telegram bot monitors your Gmail inbox for new messages and notifies you wh
 - Simple Telegram interface
 # Usage
 - write a command /start and bot will request you to write your gmail adress
-- 
 - write a command /start_checking to enable your gmail monitoring
+  ![](https://github.com/Technoglark/TeleFilter/edit/main/images/img1)
 
